@@ -1,4 +1,4 @@
-name: Demo CI for a simple JS file
+name: CI
 
 on:
   push:
